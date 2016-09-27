@@ -61,7 +61,7 @@
 		"nsp": "^2.5.0",
 		"eslint": "^3.0.1",
 		"@ljharb/eslint-config": "^6.0.0",
-		"es6-promise": "^3.2.1",
+		"es6-promise": "^4.0.1",
 		"semver": "^5.2.0",
 		"replace": "^0.3.0",
 		"parallelshell": "^2.0.0"
